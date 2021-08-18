@@ -42,7 +42,7 @@
  
 - Implementing the game method
 
-## Built With / 누구랑 만들었나요?
+## Tema Member
 
 - Nayeon Yoo: https://github.com/U-ny
 - Dukrin Yu: https://github.com/YuDeokRin
