@@ -45,7 +45,7 @@
 ## Tema Member
 
 - Nayeon Yoo: https://github.com/U-ny
-- Dukrin Yu: https://github.com/YuDeokRin
+- Jae-Sung Jang: https://github.com/pearlcrum
 - Kyungin Hong: https://github.com/HongKyoungIn
 
 
